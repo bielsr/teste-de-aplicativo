@@ -1,0 +1,123 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Gabriel\\Downloads\\XamarinForms2018-master\\XamarinForms2018-master\\Seção 09\\App1_Cell\\App1_Cell\\App1_Cell.iOS\\App1_Cell.iOS.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Gabriel\\Downloads\\XamarinForms2018-master\\XamarinForms2018-master\\Seção 09\\App1_Cell\\App1_Cell\\App1_Cell.iOS\\App1_Cell.iOS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Gabriel\\Downloads\\XamarinForms2018-master\\XamarinForms2018-master\\Seção 09\\App1_Cell\\App1_Cell\\App1_Cell.iOS\\App1_Cell.iOS.csproj",
+        "projectName": "App1_Cell.iOS",
+        "projectPath": "C:\\Users\\Gabriel\\Downloads\\XamarinForms2018-master\\XamarinForms2018-master\\Seção 09\\App1_Cell\\App1_Cell\\App1_Cell.iOS\\App1_Cell.iOS.csproj",
+        "packagesPath": "C:\\Users\\Gabriel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gabriel\\Downloads\\XamarinForms2018-master\\XamarinForms2018-master\\Seção 09\\App1_Cell\\App1_Cell\\App1_Cell.iOS\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Gabriel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "xamarinios10"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "xamarinios10": {
+            "projectReferences": {
+              "C:\\Users\\Gabriel\\Downloads\\XamarinForms2018-master\\XamarinForms2018-master\\Seção 09\\App1_Cell\\App1_Cell\\App1_Cell\\App1_Cell.csproj": {
+                "projectPath": "C:\\Users\\Gabriel\\Downloads\\XamarinForms2018-master\\XamarinForms2018-master\\Seção 09\\App1_Cell\\App1_Cell\\App1_Cell\\App1_Cell.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "xamarinios10": {
+          "dependencies": {
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[2.5.0.122203, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\Gabriel\\Downloads\\XamarinForms2018-master\\XamarinForms2018-master\\Seção 09\\App1_Cell\\App1_Cell\\App1_Cell\\App1_Cell.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Gabriel\\Downloads\\XamarinForms2018-master\\XamarinForms2018-master\\Seção 09\\App1_Cell\\App1_Cell\\App1_Cell\\App1_Cell.csproj",
+        "projectName": "App1_Cell",
+        "projectPath": "C:\\Users\\Gabriel\\Downloads\\XamarinForms2018-master\\XamarinForms2018-master\\Seção 09\\App1_Cell\\App1_Cell\\App1_Cell\\App1_Cell.csproj",
+        "packagesPath": "C:\\Users\\Gabriel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gabriel\\Downloads\\XamarinForms2018-master\\XamarinForms2018-master\\Seção 09\\App1_Cell\\App1_Cell\\App1_Cell\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Gabriel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[2.5.0.122203, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
